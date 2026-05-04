@@ -106,4 +106,4 @@ def generate_dataset(num_samples=5000, save_dir=DEFAULT_SAVE_DIR):
 if __name__ == "__main__":
     # Standard training size: 5000 samples. 
     # This might take 15-30 minutes depending on your CPU.
-    generate_dataset(num_samples=5000)
+    generate_dataset(num_samples=50000)
